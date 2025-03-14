@@ -1,4 +1,4 @@
-# **Investigation on Jute Fibre Reinforced Composite**
+# **Investigation on Jute Fibre Reinforced Composite on aerosapce industry**
 
 ## **Project Overview**
 This project explores the potential of **Jute Fibre Reinforced Composites (JFRCs)** as an alternative material for **aerospace and structural applications**. The study investigates **mechanical properties**, sustainability, and cost-effectiveness compared to conventional composites like Kevlar and carbon fiber.
